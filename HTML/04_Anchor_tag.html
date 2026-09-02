@@ -132,3 +132,29 @@ To create a link that enables users to initiate a phone call when clicked, you
 can use the anchor tag's href attribute with the tel: protocol.
 
 <a href="tel:+1234567890">Call Us</a>
+
+
+<!-- *------------------------------------- -->
+<!--* BONUS: HTML ANCHOR TAG  
+<!-- *---------------------------------------- -->
+
+<!--* ALSO WHEN TO USE QUOTES, WHEN NOT TO  -->
+
+✅ <a href=https://www.mozilla.org/>favorite website</a>
+
+❌ <a href=https://www.mozilla.org/ title=The Mozilla homepage>favorite website</a>
+
+<!-- So the best practice is Always include the attribute quotes. It avoids such problems, and results in more readable code. -->
+
+<!--* Single or double quotes?  -->
+ <a href='https://www.example.com'>A link to my example.</a>
+
+<a href="https://www.example.com">A link to my example.</a> 
+
+<!--! mixing both the quotes at the same time is wrong -->
+<!-- ❌ <a href="https://www.example.com'>A link to my example.</a> -->
+
+<!--? However, if you use one type of quote, you can include the other type of quote inside your attribute values: -->
+ <a href="https://www.example.com" title="Isn&quot;t this fun?">
+  A link to my &lt; fsdf &gt; example.
+</a> 
