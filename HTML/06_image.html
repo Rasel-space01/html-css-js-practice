@@ -6,11 +6,65 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>html images</title>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Urbanist:wght@300;400;600;700;800;900&display=swap");
+      html {
+        font-family: "jost", sans-serif;
+        font-weight: bold;
+        background-color: #efefef;
+        /* color: #fff; */
+      }
+      img {
+        /* max-width: 250px; */
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+        border-radius: 8px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>HTML IMG TAG</h1>
+    <a href="https://thapatechnical.shop/source-code" target="_blank">
+      <img
+        src="./images/html.png"
+        alt="my html course thumbnail"
+        width="250"
+        height="150"
+        title="html course banner"
+        loading="lazy"
+      />
+    </a>
+
+    <img
+      src="./images/html.png"
+      alt="Clickable World Map"
+      usemap="#map"
+      width="250"
+      height="150"
+    />
+
+    <map name="map">
+      <area
+        shape="rect"
+        coords="150,30,200,80"
+        target="_blank"
+        href="https://youtu.be/5p8e2ZkbOFU"
+        alt="my youtube channel link"
+      />
+      <!-- <area
+    shape="circle"
+    coords="200,150,50"
+    href="https://youtu.be/5p8e2ZkbOFU"
+    alt="Central Area"
+  />
+  <area
+    shape="poly"
+    coords="300,100,350,200,250,200"
+    href="https://youtu.be/5p8e2ZkbOFU"
+    alt="South Area"
+  /> -->
+    </map>
+  </body>
 </html>
