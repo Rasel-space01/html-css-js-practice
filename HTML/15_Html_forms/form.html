@@ -5,3 +5,41 @@
 <!--? The <form> tag is used to create an HTML form for user input. -->
 
 <!--? The <input> HTML element is used to create interactive controls for web-based forms to accept data from the user. We must write inside the tag. -->
+
+
+ <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML Form</title>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Urbanist:wght@300;400;600;700;800;900&display=swap");
+      html {
+        font-family: "jost", sans-serif;
+        background-color: #efefef;
+      }
+      h1 {
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>HTML FORM</h1>
+    <form>
+      <div>
+        <label for="username">Username</label>
+        <input type="text" id="username" />
+      </div>
+      <div>
+        <label for="email">Enter your email</label>
+        <input type="email" id="email" />
+      </div>
+      <div>
+        <label for="textarea">Message</label>
+        <textarea name="" id="textarea" cols="30" rows="10"></textarea>
+      </div>
+      <input type="submit" value="submit" />
+    </form>
+  </body>
+</html> 
