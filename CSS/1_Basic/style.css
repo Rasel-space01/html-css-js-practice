@@ -5,3 +5,7 @@ h1 {
 .para {
   color: #ff00ff;
 }
+#btn {
+  background-color: #ff3368;
+  color: #fff;
+}
