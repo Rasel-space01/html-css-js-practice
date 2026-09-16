@@ -22,3 +22,15 @@ h1 {
 p {
   color: blue;
 }
+
+/*? RGB Colors: RGB (Red, Green, Blue) values allow you to define colors by specifying the amount of red, green, and blue in the color. */
+
+h1 {
+  color: red;
+  color: rgb(255, 0, 0);
+}
+
+p {
+  color: blue;
+  color: rgb(0, 0, 255);
+}
