@@ -45,3 +45,13 @@ h1 {
 p {
   color: rgba(0, 0, 255, 0.5);
 }
+
+/*? Hexadecimal Colors: You can specify colors using hexadecimal values. */
+
+h1 {
+  color: #ff0000;
+}
+
+p {
+  color: #ccc;
+}
