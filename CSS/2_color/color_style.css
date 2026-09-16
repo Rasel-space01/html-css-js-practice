@@ -8,3 +8,17 @@
 /*?Understanding how to apply colors to text and backgrounds is essential for creating visually, 
 /*?appealing designs. 
 
+
+/** ------------------------------------ -->
+/**  Notes: Colors using Various Notations
+/** ------------------------------------ -->
+
+/*? Named Colors: You can use named colors, which are predefined color keywords. */
+
+h1 {
+  color: red;
+}
+
+p {
+  color: blue;
+}
