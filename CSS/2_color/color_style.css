@@ -78,3 +78,27 @@ p {
   color: hsl(226, 84%, 17%, 0.8);
 }
 
+/** ------------------------------------- -->
+/**  INTERVIEW QUESTIONS  
+/** ---------------------------------------- -->
+
+/*? 1: What is the difference between rgb() and rgba() color notations in CSS? */
+/* rgb() notation specifies a color using the red, green, and blue channels without transparency.
+rgba() notation is an extension of rgb() and includes an additional alpha channel to specify transparency. It stands for "red, green, blue, alpha.  */
+
+/*? 2: How can you make the text color of an element fully transparent using CSS? Provide an example. */
+h1 {
+  /* color: rgba(255, 0, 0, 0); */
+  /* color: transparent; */
+}
+
+/*? 3: How can you set the text color of an element to match the current color of another CSS property within the same element? */
+
+.hero-section {
+  color: rgb(17, 104, 212);
+}
+
+p {
+  color: currentColor;
+}
+
