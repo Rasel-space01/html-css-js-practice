@@ -34,3 +34,14 @@ p {
   color: blue;
   color: rgb(0, 0, 255);
 }
+
+/*? RGBA Colors: RGBA is similar to RGB but includes an alpha channel for opacity control. */
+/* alpha - 0 - 1 */
+
+h1 {
+  color: rgba(255, 0, 0, 1);
+}
+
+p {
+  color: rgba(0, 0, 255, 0.5);
+}
