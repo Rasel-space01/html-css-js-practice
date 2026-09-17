@@ -23,3 +23,12 @@ Example: background-repeat: repeat-x; */
 /*? background-attachment: Specifies if the background image scrolls with the content.; */
 /* Values: scroll, fixed, local.
 Example: background-attachment: fixed; */
+
+/** ------------------------------------- -->
+/**  BACKGROUND PROPERTY IN CSS3  
+/** ---------------------------------------- -->
+
+/*? background-blend-mode: Applies blending modes to the background image and color. */
+/* Values: Various blending mode keywords like multiply, screen, overlay.
+Example: background-blend-mode: multiply; */
+
