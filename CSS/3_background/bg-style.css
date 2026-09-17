@@ -52,6 +52,11 @@ body {
 
 /*? 2: How can you make a background image cover the entire element without distortion? */
 /* You can use background-size: cover; to make the background image cover the entire element while maintaining its aspect ratio. This ensures that the image fills the container without distortion. */
+/*? 3: How can you apply multiple background images to a single element? */
+/* background-image property and using a comma to separate them. For example: */
+/* css background-image: url('image1.jpg'), url('image2.jpg'); */
+
+/*? 4: What is the property that is used for controlling image-scroll? */
 
 
 
