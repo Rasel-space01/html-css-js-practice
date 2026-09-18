@@ -31,3 +31,22 @@ Using rem ensures that the size is consistent throughout the entire document, ma
 /*? rem is the preferred choice for responsive design as it offers a consistent relative size based on the root font size. It's easier to maintain and provides better scalability. */
 
 /** ---------------------------------------- --> */
+
+body {
+  background-color: hsl(0, 0%, 94%);
+}
+
+/*? for Pixels  */
+
+/* h1 {
+  font-size: 54px;
+  color: purple;
+} */
+
+/* p {
+  font-size: 36px;
+}
+
+li {
+  font-size: 44px;
+} */
