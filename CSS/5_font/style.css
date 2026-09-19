@@ -26,3 +26,17 @@ body {
   display: grid;
   place-items: center;
 }
+
+.hero-section {
+  width: 50%;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: "Urbanist", sans-serif;
+  font-family: "thapaFont", "Urbanist", sans-serif;
+  font-size: 54px;
+  font-weight: 900;
+  font-style: italic;
+  font-variant: small-caps;
+}
