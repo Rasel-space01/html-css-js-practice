@@ -61,3 +61,15 @@ a {
 
 /* font-family: "Preferred Font", Fallback1, Fallback2, sans-serif; */
 
+
+
+/** ------------------------------------- -->
+/**  Notes + Tips
+/** ---------------------------------------- -->
+
+/*? Common font formats and their corresponding format values are: */
+/* TrueType Font (.ttf): format('truetype') or format('opentype')
+WOFF Font (.woff): format('woff')
+WOFF2 Font (.woff2): format('woff2')
+Embedded OpenType Font (.eot): format('embedded-opentype')
+SVG Font (.svg): format('svg')  */
