@@ -50,3 +50,10 @@ a {
   font-family: "Urbanist", sans-serif;
   font-size: 20px;
 }
+/** ------------------------------------- -->
+/**  Interview Question + CSS3 Property
+/** ---------------------------------------- -->
+
+/*? 1: How to add custom fonts in CSS? */
+/* To add custom fonts in CSS, you can use the @font-face rule, which allows you to define and include custom fonts in your web pages.  */
+
