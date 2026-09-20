@@ -86,3 +86,20 @@ a {
   text-decoration: none;
   color: red;
 }
+
+
+/** ------------------------------------- --> */
+/**  INTERVIEW QUESTIONS
+/** ---------------------------------------- --> */
+
+/*? 1: How can you control the spacing between lines of text in CSS? */
+/* The line-height property is used to control the spacing between lines of text. It can be set to a specific unit like px or a relative value like 1.5, which multiplies the font size. */
+
+/*? 2: How can you create drop caps (initial letter styling) in CSS? */
+/* You can create drop caps using the ::first-letter pseudo-element in CSS.  */
+
+p::first-letter {
+  text-transform: uppercase;
+  font-size: 48px;
+  font-weight: 600;
+}
