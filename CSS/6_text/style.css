@@ -20,3 +20,17 @@
 
 /*? textTransform:- The text-transform property allows you to control the capitalization of text. */
 /* Values include uppercase (converts text to all uppercase), lowercase (converts text to all lowercase), and capitalize (capitalizes the first letter of each word). */
+
+/** ------------------------------------- -->
+/**  TEXT SPACING IN CSS  
+/** ---------------------------------------- -->
+
+/*? letter-spacing Property:- The letter-spacing property controls the spacing between characters in a text. */
+/* - It can be set to positive values to increase spacing or negative values to decrease spacing. */
+
+/*? word-spacing Property:- The word-spacing property controls the spacing between words in a text. */
+/* - It can be set to positive values to increase word spacing or negative values to decrease it. */
+
+/*? The line-height property is used to specify the space between lines: */
+
+/*? white-space is used to control how white space within an element is handled. */
