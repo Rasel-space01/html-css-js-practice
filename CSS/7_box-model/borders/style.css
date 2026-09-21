@@ -39,3 +39,45 @@ border-style: outset; */
 
 /** ---------------------------------------- --> */
 
+html {
+  /* font-size: 62.5%; */
+  font-family: "Urbanist", sans-serif;
+}
+
+#main-heading {
+  font-size: 64px;
+  color: #1e1403;
+}
+
+p {
+  font-size: 18px;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+  line-height: 1.5;
+}
+
+.section-border {
+  width: 1000px;
+  color: #fff;
+  /* background-color: #5e9de9; */
+  /*?  border here  */
+  /* border: 15px solid #003180; */
+
+  /*?  write each property individual  */
+  /* border-width: 15px;
+  border-style: solid;
+  border-color: #003180; */
+
+  /*? we can write them individually too  */
+  /* border-top: 15px solid #003180;
+  border-right: 15px dotted red;
+  border-bottom: 15px ridge green;
+  border-left: 15px double #003b99; */
+
+  /*? Now, further we can go more deeper with each individual values. */
+  /* border-top-width: 15px;
+  border-top-style: solid;
+  border-top-color: #003b99; */
+}
+
+
