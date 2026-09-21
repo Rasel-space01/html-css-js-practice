@@ -3,3 +3,12 @@
 /** ---------------------------------------- --> */
 
 /*? In CSS, the `border` property is used to create and control the borders of HTML elements. Borders are used to visually separate and define the boundaries of elements on a web page. The `border` property allows you to specify the style, width, and color of borders. Let's explore the `border` property in depth: */
+
+/* 1. Short-hand Syntax:
+       ? border: [border-width] [border-style] [border-color];
+
+    - `[border-width]`: Specifies the width of the border (e.g., `1px`, `2px`, `3px`, etc.).
+    - `[border-style]`: Specifies the style of the border (e.g., `solid`, `dotted`, `dashed`, etc.).
+    - `[border-color]`: Specifies the color of the border (e.g., a color name, hex code, RGB value, etc.). */
+
+/*TODO Let understand the Each border property one by one.  */
