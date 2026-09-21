@@ -27,3 +27,9 @@ border-style: groove;
 border-style: ridge;
 border-style: inset;
 border-style: outset; */
+
+/* top and bottom | left and right */
+/* border-style: dotted solid; */
+
+/* top | left and right | bottom */
+/* border-style: hidden double dashed; */
