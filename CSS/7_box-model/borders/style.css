@@ -90,4 +90,29 @@ p {
 
 /* top-left-and-bottom-right | top-right-and-bottom-left */
 /*? border-radius: 10px 20%; */
+/* Creating Custom Radius for Each Corner:  */
+/* top-left | top-right | bottom-right | bottom-left */
+/*? border-radius: 15px 5px 10px 20px; */
+
+div {
+  width: 500px;
+  height: 300px;
+  background-color: #5e9de9;
+  /*border-radius: 100% 0% 100% 0% / 100% 0% 100% 0%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  */
+  border-radius: 50%;
+  background-image: linear-gradient(
+    to right top,
+    #051937,
+    #004d7a,
+    #008793,
+    #00bf72,
+    #a8eb12
+  );
+}
+
 
