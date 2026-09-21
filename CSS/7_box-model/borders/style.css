@@ -121,3 +121,17 @@ div {
 /* checkout more on here  👉 https://9elements.github.io/fancy-border-radius/ */
 /* checkout more on here  👉 https://10015.io/tools/css-border-radius-generator */
 
+/** ------------------------------------- -->
+/** INTERVIEW QUESTIONS
+/** ---------------------------------------- --> */
+
+/*? 1: How do you set a border around an HTML element in CSS? Explain the border property and its values.; */
+/* border: 2px solid #333; */
+
+/*? 2: How can you create rounded corners for an HTML element in CSS?  */
+/* border-radius: 10px; */
+
+/*? 3: How do you create a circular border using border-radius? */
+/* border-radius: 50%; */
+
+
