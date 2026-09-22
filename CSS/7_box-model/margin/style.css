@@ -22,3 +22,13 @@
 /* - `top`: Specifies the margin on the top side.
 - `right-left`: Specifies the margin on the right and left sides.
 - `bottom`: Specifies the margin on the bottom side. */
+
+/*? Two Values: margin: top-bottom right-left; */
+/* margin: 50px 30px;
+
+- `top-bottom`: Specifies the margin on the top and bottom sides.
+- `right-left`: Specifies the margin on the right and left sides. */
+
+/*? One Value: margin: value; */
+/* margin: 50px; */
+/* If you provide a single value, it applies to all sides equally. */
