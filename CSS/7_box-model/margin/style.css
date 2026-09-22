@@ -111,3 +111,9 @@ p {
 /*? Negative Margins: You can use negative margin values to overlap elements or pull elements closer to each other. However, be cautious with negative margins, as they can lead to unexpected layouts and should be used sparingly. */
 
 /*? Collapsing Margins: When two adjacent margins meet, they can collapse into a single margin. This behavior is important to understand, especially when dealing with elements like paragraphs and headings. The larger of the two margins takes precedence. */
+
+/** ------------------------------------------- -->
+/**  INTERVIEW  + NOTES + TIPS
+/** ------------------------------------------- --> */
+
+/*? 1: What is margin in CSS, and how does it affect the layout of HTML elements? */
