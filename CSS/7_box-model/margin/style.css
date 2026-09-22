@@ -101,3 +101,13 @@ p {
   margin: auto;
   margin-top: 60px;
 }
+
+/** ------------------------------------------- -->
+/**  ADVANCED MARGIN IN CSS  + NOTES + TIPS
+/** ------------------------------------------- --> */
+
+/*? Auto Value: You can use margin: auto; to horizontally center an element within its container. This is commonly used for centering block-level elements. */
+
+/*? Negative Margins: You can use negative margin values to overlap elements or pull elements closer to each other. However, be cautious with negative margins, as they can lead to unexpected layouts and should be used sparingly. */
+
+/*? Collapsing Margins: When two adjacent margins meet, they can collapse into a single margin. This behavior is important to understand, especially when dealing with elements like paragraphs and headings. The larger of the two margins takes precedence. */
