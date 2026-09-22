@@ -117,3 +117,8 @@ p {
 /** ------------------------------------------- --> */
 
 /*? 1: What is margin in CSS, and how does it affect the layout of HTML elements? */
+/*? 2: How can you set margin for all sides (top, right, bottom, left) of an HTML element using shorthand notation? Provide an example. */
+/* You can set margin for all sides using shorthand notation */
+/* margin: 10px 20px 15px 30px; */
+
+/*? 3: How can you center-align an HTML element horizontally using margins? ⭐⭐⭐⭐⭐  */
