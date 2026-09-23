@@ -45,3 +45,42 @@ In summary, the `padding` property in CSS is a versatile tool for controlling th
 /* * {
   padding: 0;
 } */
+
+html {
+  font-family: Urbanist;
+}
+
+body {
+  padding: 0 5rem;
+}
+
+#main-heading {
+  padding: 4rem 0;
+  color: #1e1403;
+}
+
+p {
+  line-height: 1.6;
+  letter-spacing: 1px;
+  font-size: 18px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* box model css  */
+.section-padding {
+  background: linear-gradient(to right, #3a7bd5, #00d2ff);
+  color: #fff;
+  border: 10px solid #003b99;
+  /*? Apply to all four sides */
+  /* padding: 100px; */
+
+  /*? top and bottom | left and right */
+  /* padding: 100px 150px; */
+
+  /*? top | right | bottom | left */
+  /* padding: 100px 150px 50px 200px; */
+  padding-top: -300px;
+  padding-right: 150px;
+  padding-bottom: 50px;
+  padding-left: 200px;
+}
