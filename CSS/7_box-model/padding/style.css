@@ -11,3 +11,17 @@
 /*? 2. Vertical and Horizontal Padding:  
     padding: 5px 10px;  
     👉  This sets 5 pixels of padding on the top and bottom sides and 10 pixels on the right and left sides. */
+
+    /*? top | left and right | bottom */
+/* padding: 1px 2px 2px; */
+
+/*? top | right | bottom | left */
+/* padding: 5px 1px 0 2px; */
+
+/*? 1. Individual Padding: */
+
+/* padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    This sets different padding values for each side of the element. */
