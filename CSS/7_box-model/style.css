@@ -1,0 +1,11 @@
+/** ------------------------------------- -->
+/**  BOX MODEL IN CSS  (BOX SIZING)
+/** ---------------------------------------- --> */
+
+/*? The CSS Box Model consists of four main components:
+
+1. Content: This is the innermost part of the element, which holds the actual content, such as text, images, or other HTML elements.
+
+2. Padding: Padding is the space between the content and the element's border. It provides internal spacing within the element.
+            content and border ke bix ka space ko padding 
+    
