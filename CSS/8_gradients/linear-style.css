@@ -3,3 +3,13 @@
 /** ---------------------------------------- --> */
 
 /*? The linear-gradient() CSS function creates an image consisting of a progressive transition between two or more colors along a straight line */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section{
+
+}
