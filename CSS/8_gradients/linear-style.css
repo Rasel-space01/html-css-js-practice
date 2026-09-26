@@ -45,3 +45,15 @@ section{
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+/**-----------------------
+/** Interview Question  
+/** ----------------------- */
+
+/*?  1: What are CSS gradients, and why are they useful in web design? */
+/* sol: CSS gradients are a way to create smooth transitions between two or more specified colors. They are useful in web design because they allow for the creation of visually appealing backgrounds, buttons, and text effects, enhancing the overall design and user experience. */
+
+/*? 2: Explain the difference between linear gradients and radial gradients in CSS. When would you use one over the other?
+sol: Linear gradients create a smooth transition along a straight line, such as from top to bottom or left to right. Radial gradients, on the other hand, create a circular transition from the center outward. You would use linear gradients for linear background effects like horizontal or vertical color transitions. Radial gradients are ideal for creating circular elements or radial backgrounds, such as buttons or circular divs.*/
+
+/*? 3: How can you create a diagonal linear gradient in CSS? 🚀  */
