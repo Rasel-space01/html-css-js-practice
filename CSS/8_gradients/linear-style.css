@@ -57,3 +57,17 @@ section{
 sol: Linear gradients create a smooth transition along a straight line, such as from top to bottom or left to right. Radial gradients, on the other hand, create a circular transition from the center outward. You would use linear gradients for linear background effects like horizontal or vertical color transitions. Radial gradients are ideal for creating circular elements or radial backgrounds, such as buttons or circular divs.*/
 
 /*? 3: How can you create a diagonal linear gradient in CSS? 🚀  */
+/* background-image: linear-gradient(to bottom right, #004d7a, #a8eb12); */
+
+/*? 4: How can you create a transparent gradient in CSS? 🚀 */
+/* background-image: linear-gradient(to right, rgba(255, 0, 0, 0), rgba(255, 0, 0, 1)); */
+
+/*? 5:Can you create a gradient that transitions from multiple colors rather than just two? 🚀  */
+/* background-image: linear-gradient(
+  to right top,
+  #051937,
+  #004d7a,
+  #008793,
+  #00bf72,
+  #a8eb12
+); */
