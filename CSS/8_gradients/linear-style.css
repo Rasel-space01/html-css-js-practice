@@ -24,4 +24,13 @@ section{
     rgba(255, 0, 0, 0.5),
     rgba(255, 0, 0, 0.5)
   ); */
+   /* background-image: linear-gradient(
+    to right top,
+    #051937,
+    #004d7a,
+    #008793,
+    #00bf72,
+    #a8eb12
+  ); */
+  /* background-image: repeating-linear-gradient(45deg, #d2e0fb, #79ac78 50px); */
 }
