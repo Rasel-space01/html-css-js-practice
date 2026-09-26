@@ -11,5 +11,17 @@
 }
 
 section{
-
+ width: 100%;
+  height: 100vh;
+  /* background-image: linear-gradient(red, yellow); */
+  /* background-image: linear-gradient(to left, red, yellow); */
+  /* background-image: linear-gradient(to top, red, yellow); */
+  /* background-image: linear-gradient(90deg, red, yellow); */
+  /* background-image: linear-gradient(270deg, red, yellow); */
+  /* background-image: linear-gradient(to top left, red, yellow); */
+  /* background-image: linear-gradient(
+    to right,
+    rgba(255, 0, 0, 0.5),
+    rgba(255, 0, 0, 0.5)
+  ); */
 }
