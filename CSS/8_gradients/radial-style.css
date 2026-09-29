@@ -29,3 +29,9 @@ section {
     #2980b9 100%
   );
 }
+
+/*? Differently Spaced Color Stops */
+/* background-image: radial-gradient(red 30%, yellow 60%, green 10%); */
+
+/*? Set the Shape */
+/* The shape parameter defines the shape. It can take the value circle or ellipse. The default value is ellipse. */
