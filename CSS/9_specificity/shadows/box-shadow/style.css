@@ -11,3 +11,23 @@
 /*? Outer Box Shadow: Default box shadow is outer. x-offset and y-offset are compulsory properties, rest all are optional. */
 
 /*? Inner Box Shadow: To use inner box shadow, use inset. Inset is only required if shadow is inside. By-default shadow is outside. */
+
+/** ---------------------------------------- --> */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Urbanist";
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  background-color: #191717;
+  display: grid;
+  place-items: center;
+}
