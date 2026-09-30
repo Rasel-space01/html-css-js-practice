@@ -11,3 +11,6 @@
 /*? Two length values */
 /* drop-shadow( <length> <length> ) */
 /* drop-shadow(5px 5px) */
+/*? Three length values */
+/* drop-shadow( <length> <length> <length> ) */
+/* drop-shadow(5px 5px 15px) */
