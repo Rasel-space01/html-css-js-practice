@@ -3,3 +3,6 @@
 /** ---------------------------------------- --> */
 
 /*? Drop shadow, often used for images, creates a shadow below the element, giving the illusion of it being lifted from the page. */
+
+/* It is defined using the filter property with the drop-shadow function. */
+/* The drop-shadow function accepts values for horizontal and vertical offsets, blur radius, and color. */
