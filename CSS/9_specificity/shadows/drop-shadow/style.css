@@ -14,3 +14,11 @@
 /*? Three length values */
 /* drop-shadow( <length> <length> <length> ) */
 /* drop-shadow(5px 5px 15px) */
+
+/*? Two length values and a color */
+/* drop-shadow( <length> <length> <color> ) */
+/* drop-shadow(5px 5px yellow) */
+
+/*? Three length values and a color */
+/* drop-shadow( <length> <length> <length> <color> ) */
+/* drop-shadow(5px 5px 15px yellow) */
