@@ -6,3 +6,8 @@
 
 /* It is defined using the filter property with the drop-shadow function. */
 /* The drop-shadow function accepts values for horizontal and vertical offsets, blur radius, and color. */
+
+/* values  */
+/*? Two length values */
+/* drop-shadow( <length> <length> ) */
+/* drop-shadow(5px 5px) */
