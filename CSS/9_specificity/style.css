@@ -21,3 +21,25 @@ Elements and pseudo-elements - Example: h1, ::before */
 /*? Use specific selectors when necessary, but strive for a balanced and maintainable approach. */
 
 /** ---------------------------------------- --> */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Jost";
+}
+
+body {
+  background-color: #080a0c;
+  color: azure;
+  height: 100vh;
+}
+
+.container {
+  height: 100vh;
+  max-width: 1320px;
+  padding: 64px 0;
+  margin: 0 auto;
+  display: grid;
+  align-items: center;
+}
