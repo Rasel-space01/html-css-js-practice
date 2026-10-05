@@ -43,3 +43,18 @@ body {
   display: grid;
   align-items: center;
 }
+
+.grid {
+  display: grid;
+  align-items: center;
+  gap: 6.4rem;
+}
+
+.grid-two-column {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.hero-content h1 {
+  text-align: left;
+  font-size: 54px;
+}
