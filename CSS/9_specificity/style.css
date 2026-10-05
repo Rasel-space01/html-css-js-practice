@@ -12,3 +12,12 @@ Inline styles - Example: <h1 style="color: red;">
 IDs - Example: #navbar
 Classes, pseudo-classes, attribute selectors - Example: .test, :hover, [href]
 Elements and pseudo-elements - Example: h1, ::before */
+
+/** ------------------------------------- -->
+/**  CSS SPECIFICITY - TIPS
+/** ---------------------------------------- --> */
+
+/*? Avoid overusing !important since it can lead to difficult-to-maintain code. */
+/*? Use specific selectors when necessary, but strive for a balanced and maintainable approach. */
+
+/** ---------------------------------------- --> */
