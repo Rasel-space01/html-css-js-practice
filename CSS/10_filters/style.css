@@ -8,3 +8,9 @@
 
 /*? grayscale(): Converts the element to grayscale. A value of 1 (or 100%) means fully grayscale. */
 /* filter: grayscale(0.5); 50% grayscale */
+
+/*? blur(): Applies a blur effect to the element. The value determines the amount of blur. */
+/* filter: blur(5px); 5 pixels of blur */
+
+/*? brightness(): Adjusts the brightness of the element. Values greater than 1 increase brightness, and values less than 1 decrease it. */
+/* filter: brightness(1.5); 150% brightness */
