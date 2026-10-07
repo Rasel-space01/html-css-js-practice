@@ -20,3 +20,9 @@
 
 /*? saturate(): Increases or decreases the saturation of the element. Values greater than 1 increase saturation, and values less than 1 desaturate it. */
 /* filter: saturate(2); Double saturation */
+
+/*? hue-rotate(): Rotates the hues of the element. Values are in degrees. */
+/* filter: hue-rotate(90deg); 90-degree hue rotation */
+
+/*? invert(): Inverts the colors of the element. A value of 1 (or 100%) inverts completely. */
+/* filter: invert(0.7); 70% color inversion */
