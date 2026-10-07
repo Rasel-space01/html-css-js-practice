@@ -3,3 +3,8 @@
 /** ---------------------------------------- --> */
 
 /*? CSS filters are a set of graphical effects that can be applied to HTML elements to modify their appearance. Filters can alter properties like color, brightness, contrast, and more. */
+
+/** Commonly Used Filter Functions: */
+
+/*? grayscale(): Converts the element to grayscale. A value of 1 (or 100%) means fully grayscale. */
+/* filter: grayscale(0.5); 50% grayscale */
