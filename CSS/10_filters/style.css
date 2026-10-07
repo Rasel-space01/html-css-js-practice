@@ -43,3 +43,20 @@ Experiment with filter values to create unique visual effects.
 Be cautious with excessive use of filters, as they can significantly alter the appearance of elements. */
 
 /** ---------------------------------------- --> */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Urbanist";
+}
+
+section {
+  width: 100%;
+  height: 100vh;
+  background-color: hsl(0, 0%, 94%);
+  display: grid;
+  place-items: center;
+}
