@@ -32,3 +32,14 @@
 
 /*? sepia(): Applies a sepia tone effect to the element. A value of 1 (or 100%) is full sepia. */
 /* filter: sepia(0.7); 70% sepia effect */
+
+/** ------------------------------------- -->
+/** IMPORTANT TIPS - FILTERS - CSS3
+/** ---------------------------------------- --> */
+
+/* CSS filters can be combined by separating them with spaces.
+Filters can be applied to images, backgrounds, and even entire sections of a webpage.
+Experiment with filter values to create unique visual effects.
+Be cautious with excessive use of filters, as they can significantly alter the appearance of elements. */
+
+/** ---------------------------------------- --> */
