@@ -14,3 +14,9 @@
 
 /*? brightness(): Adjusts the brightness of the element. Values greater than 1 increase brightness, and values less than 1 decrease it. */
 /* filter: brightness(1.5); 150% brightness */
+
+/*? contrast(): Adjusts the contrast of the element. Similar to brightness(), values greater than 1 increase contrast, and values less than 1 decrease it. */
+/* filter: contrast(0.8); 80% contrast */
+
+/*? saturate(): Increases or decreases the saturation of the element. Values greater than 1 increase saturation, and values less than 1 desaturate it. */
+/* filter: saturate(2); Double saturation */
