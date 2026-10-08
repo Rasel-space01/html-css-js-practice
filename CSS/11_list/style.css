@@ -52,3 +52,19 @@ body {
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
 }
+
+ul {
+  list-style-type: decimal;
+  list-style-position: inside;
+  /* list-style-image: url("../images/mario-run.gif"); */
+}
+
+li {
+  font-size: 32px;
+  font-weight: 400;
+  text-transform: capitalize;
+  margin-bottom: 16px;
+  border: 2px solid #ed5656;
+}
+
+/* I will show the same during pseudo elements  */
