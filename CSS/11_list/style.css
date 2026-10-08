@@ -20,3 +20,12 @@ ordered lists (<ol>) - the list items are marked with numbers or letters */
 } */
 
 /** ---------------------------------------- --> */
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+html {
+  font-family: "Urbanist";
+}
